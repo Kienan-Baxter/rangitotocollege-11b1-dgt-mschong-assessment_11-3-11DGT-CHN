@@ -1,4 +1,4 @@
-""" I am not fixing the 98 style errors."""
+""" I am not fixing the 98 'style errors'."""
 age = int(input("how old are you\n"))
 year = 2025 - age
 if year > 2007:
